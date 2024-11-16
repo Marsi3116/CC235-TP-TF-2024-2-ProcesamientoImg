@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reconocimiento Facial en Vivo</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+    <h1>Reconocimiento Facial en Vivo</h1>
+
+    <!-- Video para mostrar la cámara -->
+    <video id="videoFeed" width="640" height="480" autoplay></video>
+
+    <a href="{{ url_for('index') }}" class="back-btn">Volver</a>
+
+    <script>
+        // Acceder a la cámara del usuario
+        const video = document.getElementById('videoFeed');
+
+        // Verificar si el navegador soporta la API de mediaDevices
+        if (navigator.mediaDevices && navigator.mediaDevices.getUserMedia) {
+            navigator.mediaDevices.getUserMedia({ video: true })
+                .then(function(stream) {
+                    video.srcObject = stream;
+                })
+                .catch(function(err) {
+                    console.log("Ocurrió un error al acceder a la cámara: ", err);
+                });
+        } else {
+            alert("Tu navegador no soporta la captura de video.");
+        }
+    </script>
+</body>
+</html>
