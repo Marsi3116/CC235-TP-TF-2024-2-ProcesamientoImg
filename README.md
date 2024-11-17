@@ -1,9 +1,22 @@
 # CC235-TP-TF-2024-2-ProcesamientoImg
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="Logo UPC" />
+</p>
+
+
 
 # Objetivo del Trabajo
 
-El objetivo general de nuestro sistema de reconocimiento facial es mejorar la precisión y eficiencia en la identificación de estudiantes, optimizando los procesos de control de asistencia y acceso en universidades.
+El propósito principal de nuestro sistema de reconocimiento facial es optimizar la precisión y eficiencia en la identificación de estudiantes, mejorando los procesos de control de asistencia y acceso en instituciones educativas.
+
+Para lograrlo, buscamos:
+
+- Optimizar la precisión en la identificación de estudiantes
+Nuestro sistema tiene como objetivo asegurar una identificación precisa de los estudiantes mediante el uso de tecnología avanzada de reconocimiento facial. Este sistema será capaz de identificar a los estudiantes registrados de manera rápida y eficaz, incluso en situaciones complejas, como variaciones en la iluminación o el uso de mascarillas.
+
+- Facilitar el registro de nuevos estudiantes y automatizar la gestión
+Además de la función de identificación, el sistema permitirá un registro sencillo de nuevos estudiantes, capturando y almacenando sus características faciales. Este proceso optimizado reducirá el tiempo y esfuerzo necesario para administrar el control de asistencia y acceso, mejorando tanto la seguridad como la eficiencia operativa dentro de las universidades.
 
 ---
 
