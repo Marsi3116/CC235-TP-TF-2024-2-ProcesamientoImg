@@ -18,7 +18,7 @@ El objetivo general de nuestro sistema de reconocimiento facial es mejorar la pr
 
 ## Breve Descripción del Dataset
 
-El dataset utilizado en este proyecto contiene imágenes de celebridades etiquetadas por su género (masculino o femenino). El archivo PDF con más detalles sobre las imágenes y las etiquetas se encuentra adjunto en el siguiente enlace.
+El conjunto de datos que emplearemos para entrenar el sistema de reconocimiento facial se basará en una mezcla de datos existentes y grabaciones en tiempo real. Este enfoque es fundamental para asegurar que el sistema mantenga una alta precisión bajo diversas condiciones y pueda adaptarse eficazmente a la inclusión de nuevos estudiantes durante su uso en vivo. Además, al integrar datos en tiempo real, el sistema podrá mejorar su rendimiento de forma continua, ajustándose a variaciones como cambios en la iluminación, expresiones faciales y otros factores dinámicos. Esta adaptabilidad es clave para su funcionamiento en entornos educativos, donde las condiciones pueden variar considerablemente. Más información en el siguiente enlace.
 
 [Enlace al informe](https://docs.google.com/document/d/1e_N9TteThA-lIVfmh3g2pQUl75Q7PeAd/edit?usp=sharing&ouid=102770396532383771305&rtpof=true&sd=true)
 
