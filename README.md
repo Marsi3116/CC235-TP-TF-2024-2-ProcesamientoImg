@@ -50,4 +50,4 @@ Después de procesar el dataset y aplicar un modelo de clasificación utilizando
 
 ## Licencia
 
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](https://github.com/Marsi3116/CC235-TP-TF-2024-2-ProcesamientoImg/blob/main/LICENSE.txt) para más detalles.
+Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE.txt) para más detalles.
