@@ -20,7 +20,7 @@ El objetivo general de nuestro sistema de reconocimiento facial es mejorar la pr
 
 El dataset utilizado en este proyecto contiene imágenes de celebridades etiquetadas por su género (masculino o femenino). El archivo PDF con más detalles sobre las imágenes y las etiquetas se encuentra adjunto en el siguiente enlace.
 
-[Enlace al archivo PDF]
+[https://docs.google.com/document/d/1e_N9TteThA-lIVfmh3g2pQUl75Q7PeAd/edit?usp=sharing&ouid=102770396532383771305&rtpof=true&sd=true]
 
 ---
 
